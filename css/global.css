@@ -25,6 +25,9 @@ header {
 main {
     width: fit-content;
     margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
 
 h2 {
@@ -48,5 +51,3 @@ ul {
     list-style: none;
     width: 100%;
 }
-
-/* video 30:40 */
